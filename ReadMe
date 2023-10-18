@@ -1,0 +1,6 @@
+* Open the project in terminal
+* cd WatchBucket
+* npm install
+* npm start
+* install expo-go app in your mobile device 
+* Scan the QR code shown on the terminal with the expo-go app
